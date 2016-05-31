@@ -2,5 +2,6 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://solvann.github.io
-title: ActualNotes
+title: notes
+highlighter: rouge
 paginate: 5
