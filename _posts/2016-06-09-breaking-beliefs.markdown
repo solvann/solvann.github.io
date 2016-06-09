@@ -1,6 +1,6 @@
 ---
 published: true
-title: Breaking Beliefs
+title: Breaking beliefs
 layout: post
 ---
 How wonderful it is to break a new belief, when it evaporates and leave only freedom. That sense of freedom must be one of the sweetest thing a human being can experience. It needs to be an absolute sincere, genuine and honest investigation of the belief. When I recognize a belief that's standing in the way of my happiness it can be tempting to simply think "it would be nice to get rid of this", but that doesn't do it. Wanting, wishing, hoping and dreaming have little to no effect. I need to look at the underlying cause of it -- why does it even exist in the first place? How did it come to be? Often the fear of actually changing my self, who I feel I am, will block me from looking directly into the cause. After all I'm trading in a piece of 'me' for a piece of freedom.
